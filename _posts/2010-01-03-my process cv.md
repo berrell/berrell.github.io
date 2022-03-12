@@ -14,4 +14,6 @@ author: berrell
 paginate: true
 ---
 
-<iframe src="/img/Ian-Berrell-Resume-Mar-2022.html" height="800px" width="100%"></iframe>
+# <iframe src="/img/Ian-Berrell-Resume-Mar-2022.html" height="800px" width="100%"></iframe>
+
+<img src="/img/Ian-Berrell-Resume-Mar-2022.html" />
