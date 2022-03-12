@@ -16,4 +16,4 @@ paginate: true
 
 
 
-<img src="/img/Ian-Berrell-Resume-Mar-2022.html" />
+<img src="\src\img\Ian-Berrell-Resume-Mar-2022.html" />
