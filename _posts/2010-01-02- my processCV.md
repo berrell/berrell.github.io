@@ -1,0 +1,758 @@
+---
+date: 2018-11-22 12:26:40
+layout: post
+title: Process Engineering CV?
+subtitle: Ian Berrell - Consultant Process Engineer.
+description: 
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+category: Process
+tags:
+  - books
+  - read
+author: berrell
+paginate: true
+
+title: "Ian Berrell resume - Process Engineer"
+author: Ian Berrell
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+     #css:
+       #- overide.css
+       #- resume
+      
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #ffffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+```
+
+Aside
+================================================================================
+
+![Grafter](./img/engineer 001.jpg){width=80%}
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> ihbeng@hotmail.com
+- <i class="fa fa-github"></i> [github.com/berrell](https://github.com/berrell)
+- <i class="fa fa-phone"></i> +44 (0)7411 681311
+- <i class="fa fa-link"></i> forkbeard.com
+- <i class="fa fa-linkedin"></i> linkedin.com/in/berrell
+
+- For more information, please contact me via email.
+
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ian Berrell {#title}
+--------------------------------------------------------------------------------
+
+### Consultant Process Engineer
+
+Twenty five years plus experienced process engineer working with operating companies and EPC companies in the oil and gas indutry in a management/lead engineer role.   My expertise includes extensive commissioning and start-up management of large scale Brownfield and Greenfield projects, on Fixed & Floating platforms (FPU, FPSO) including HPHT platforms. This experience includes a wide range of completion systems, system/project handover, start-up readiness assurance, and project performance testing.   
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Neath Technical College
+
+BTEC HNC Chemical Engineering
+
+Neath, uk
+
+1987
+
+
+
+### University of Bradford
+
+Beng (Hons) Chemical Engineering
+
+Bradford, UK
+
+1991
+
+
+KEY SKILLS {data-icon=calculator}
+--------------------------------------------------------------------------------
+
+### Key skills include:
+
+N/A
+
+N/A
+
+N/A
+
+
+### Experienced Cosultant Process Engineer
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* H&MB
+* PFD & PID development
+* Line sizing
+  *Incompressible fluids
+  *Compressible fluids
+* Fluid hydraulics
+* Calculation delivery
+:::
+
+### Commissioning & Start-up planning and execution expertise
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Proven track record in overseeing Pre-Commissioning and Commissioning activities to ensure EPC Contractor delivery of all aspects of planning and execution of systems completions including pre-commissioning and commissioning activities.
+:::
+
+
+### Technical & Business Skills
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Excellent written and oral English skills.
+* Strong organisational, planning and coordination skills.
+* Strong technical, prioritisation and management leadership skills.
+* Excellent communication, influencing and interface skills.
+:::
+
+
+### Very skilled in Excel, Word, Fortran, Python and R
+
+N/A
+
+N/A
+
+N/A
+
+
+\newpage
+Professional Assignments {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Employment History {data-icon=rocket}
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+
+03.20 - Present       Covid Lockdown -seeking work
+
+01.20 - 03.20         Facilities Engineer, HKN Energy Ltd, Erbil, Kurdistan
+
+02.19 - 08.19         Senior Process & operations Engineer, Enquest, Aberdeen
+
+03.17 - 06.18         Lead Commissioning Engineer, Mearsk, Singapore
+
+01.16 - 03.17         Lead Process Commissioning Engineer, BP, Aberdeen/Norway
+
+10.15 - 10.15         Lead Auditor operations Due Diligence Audit, XODUS, London
+
+03.14 - 07.15         Senior Process Consultant, XODUS, London
+
+07.13 - 02.14         Lead Process Design Engineer, AMEC, London
+
+05.11 - 07.13         Lead Production Engineer, GDF Suez EPI, Paris
+
+03.09 - 04.11         Lead Process Commissioning Engineer, NPC AS, Stavanger
+
+11.08 - 03.09         Sabbatical - Property Development
+
+11.06 - 11.08         Principal Consultant, Performance Improvements (PI) Ltd, Aberdeen
+
+09.05 - 01.06         Consultant Process Start-up Engineer, KBR Ltd, Aberdeen
+
+06.05 - 09.05         Sabbatical = Property Development
+
+01.01 - 06.05         Principal Consultant, Performance Improvements (PI) Ltd, Aberdeen
+
+07.98 - 12.00         Senior Process Engineer, IGL Engineering, Aberdeen
+
+09.96 - 07.98         Facilities Engineer, Amoco Exploration Company, Aberdeen
+
+06.94 - 09.96         Brae A Production Operator, Aker Oil & Gas Technology, Aberdeen
+
+03.91 - 05.94         Ninian Central Production operator, Chevron Oil Uk Ltd, Aberdeen
+
+02.90 - 09.90         Student placement, Coryton Refinery, Mobil Oil Ltd
+
+02.89 - 09.89         Student placement, Yorkreco Research Centre
+
+09.84 - 09.86         Process Operator Apprenticeship, BP Oil, Llandarcy Refinery
+
+:::
+
+
+
+
+
+\newpage
+Process Engineering {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### HKN Energy Ltd - Kurdistan, Facilities Engineer
+
+N/A
+
+N/A
+
+2020
+
+::: concise
+
+:::
+
+
+
+### Enquest - Kraken FPSO, Senior Process & Operations Engineer
+
+N/A
+
+N/A
+
+2019
+
+::: concise
+- **Dry zoning of process heater, corrosion.**
+- **Confirmation of Diesel treatment design capacity.**
+- **Water injection pressure contrrol valve - faulty valve positioner corrected, removed 120m3/h siwng in water injection rate.**
+:::
+
+
+### Mearsk - Ultra HPHT Culzean Project, Singapore, Lead Commissioning Engineer
+
+N/A
+
+N/A
+
+2018
+
+::: concise
+
+:::
+
+
+### BP - Glen Lyon FPSO, Aberdeen/Haugesund, Lead Process Commissioning Engineer
+
+N/A
+
+N/A
+
+2017
+
+::: concise
+
+:::
+
+
+### Mazarine Energy Tunisia B.V - Winstar Facility Audit Team Lead
+
+N/A
+
+N/A
+
+2015
+
+::: concise
+
+:::
+
+
+### Xodus - London, Senior Process Consultant
+
+N/A
+
+N/A
+
+2014 - 2015
+
+::: concise
+- **MOL Kalegran Oil & Gas Company - Akri Bijeel Project Engineer**
+- **GDF Suez EP UK Ltd - Cygnus Project Start-up Support**
+- **Vioco Petroleum Ltd - Gazelle Project Operations POhilosophy**
+- **GDF Suez EP Uk Ltd - Cygnus 5 Year Asset Plan**
+- **OMV Petrom - FEED for NAG in Limited Service**
+:::
+
+
+### AMEC - London, Lead Process Design Engineer
+
+N/A
+
+N/A
+
+2014
+
+::: concise
+
+:::
+
+
+### GDF Suez EPI - Paris, Lead Production Engineer
+
+N/A
+
+N/A
+
+2013
+
+::: concise
+
+:::
+
+### Performance Improvements (PI) Ltd - Aberdeen, Principal Consultant
+
+N/A
+
+N/A
+
+2001 - 2005
+
+::: concise
+- **BG Tunisia - Miskar Project - Commissioning/Start-up Engineer.**
+- **GDF Suez EP UK Ltd - Cygnus Project Start-up Support**
+- **Canadian Natural Resources - Ninian Central Platform Process Technical Authority.**
+- **BP Azerbaijan - Chirag platform - conducted Chirag separator sand jetting system design review and offshore operational trials. Highlighted design and operational deficiencies of system, and required modifcations to operate the desanding/deoiling hydrocyclone system.**
+- **Conoco Phillips - Project team leader - Judy/Jade Alarm Rationalisation.  Result - i) Alarm count reduced to 8 alarms in 10 minutes after event on Judy platform, ii) Increased production reliability - 20 day continuous production operations bonus target increased to 60 days.**
+- **Phillips Petroleum - Lead start-up engineer - Jade HPHT unattended platform.**
+- **Anadarko, Algeria - Development of operational philosophies for Groupement Berkine development.**
+- **Phillips Petroleum - carried out monthly Judy/Joanne performance analysis and performance report.**
+- **BP Amoco - Consultant Process/Operations Engineer to Lomond/EPM TEG dehydration/closed drains incident investigation and intgrity assurance team.**
+- **BP Amoco - Lead Process Engineer - Lomond/Erkine Production Module (EPM) cooling medium study.**
+:::
+
+
+### IGL Engineering Ltd - Aberdeen, Senior Process Engineer
+
+N/A
+
+N/A
+
+1998 - 2000
+
+::: concise
+- **Tartan Alpha Platform - R134A Refrigerant replacement study.**
+- **Brae Alpha Platform - Produced Water system expansion and re-injection study.**
+- **Tartan Alpha Platform - Tartan C3 compressor re-comissioning. rewrote start-up and commissioning procedures after compressor failure.**
+- **Janice FPU - Start-up engineer.**
+- **Ninian Southern Platform - **
+- **Erskine module - Cooling medium system study.**
+- **Everest Lomond Platform - Midlife gas compression study.**
+:::
+
+
+### Amoco - Aberdeen, Everest/Lomond Facilities Engineer
+
+N/A
+
+N/A
+
+1996 - 1998
+
+::: concise
+- **Lomond - Phantom Compressor spurious trips.**
+- **Erskine Pipeline booster start-up procedure and design.**
+- **TEG regeneration operation - coldfinger efficiency and Stripping ags reduction.**
+- **De-bottlenecked Everest Maximum gas production.**
+- **GDF Suez EP Uk Ltd - Cygnus 5 Year Asset Plan - initiated Seawater/Cooling med exchanger cleaning after plant data review.**
+- **LPVR Screw Compressor skid design modifications specified and initiated to resolve compresor reliability problems.**
+- **600ppmv oil produced water offspec result - resolved, returning produced water to <40 ppmv oil in water onspec** 
+:::
+
+
+\newpage
+Troubleshooting Experience {data-icon=book-open}
+--------------------------------------------------------------------------------
+
+### Coryton Refinery
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Maximised Sour Water Stripper (SWS) sour water treatment capacity.
+* Commissioned XP Steam Heater package, utilised waste XP steam on SWS reboiler.
+* Refinery waste water treatment plant no bypass, full treatment of waste water positive environmental impact.
+* Lowered refinery steam amin pressure, allowing electrical export ex refinery to UK grid.
+* compliance with 10% chemical usage reduction initiative on FCCU.
+* Utilisation of XP steam Heater package, prevfiously mothballed from initial start-up.
+:::
+
+
+### Ninian Central Platform
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Screw Compressor Start-up Modifications Reduced synthetic oil losses, savings of £30,000 per month. 
+:::
+
+
+### Erskine Project
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Erskine pump tripping - low suction pressure
+* Phantom turbine trips - Power outage on Lomond platform and Erskine module, resulting in 20% reduction in Erskine field production.
+* Erskine module metering skid sampler cup explosive decompression material failure - fix failure by recommending new sampler cup material. 
+:::
+
+
+### Ninan South (GB4001)
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* GB4001 compressor module - CCC vendor unable ti achieve compressor start-up and load-up. Separator pressure control setpoints adjusted to enable load-up of compressor.
+* Acceptance line walk highlighted compressor suction cooler cooling medium NRV installed wrong way around.  Construction team re-installed NRV in correct direction prior to start-up avoiding start-up incident.
+:::
+
+### Ninan Central Process Technical Authority
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* NSP compressor fouling - pull bundle recommendation and GAP vessel installation.
+* Replaced NCP diesel system  after bulk tank failure. New tankage installed within 16 weeks, power turbine fouling, and wash frequency greatly reduced due to ability to drain water off diesel storage tank, eliminating interface between diesel and water at tank bottoms and eliminating bugs in diesel.
+:::
+
+
+### Hanze Platform
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Produced water treatment package re-commissioning prior to start-up.  All process control valves on skid not operating - traced to valve actuator air vent corrosion, sourced and ordered plastic air vents. Stroke checked control valves to ensure correct operation.  Performance tested produced water treatment package on diesel and water mix.
+*Hanze platform Crude oil stabilier - trouble shot off spec export crude oil (salt content), traced to potable water wash to crude stabiliser tower closed (as part of pot water usage reduction).  Reinstated potable water wash to Crude oil stabiliser column.  Hanze export crude oil onspec for salt after a week of continuous washing of column trays.
+:::
+
+
+### Miskar Platform
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Miskar gas compressor Power turbine - start-up hydraulic pump troubleshot star v delta motor wiring configuration, correcte3d and power turbine achieved GG idle.
+* Coalescer bypass - no water design reality, fixed and no bringing forward of production shutdown.
+:::
+
+
+### Jade HPHT Platform
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Judy level control separator modification after linewalking of Judy platform end of pipeline separator 
+* Commissioned platform crane with water bags, after initial crane commissioning incident.
+* First time start-up of Jade HPHT platform - 95 days operation before production shutdown from external field trip. Phillips award for best ever start-up performance.
+:::
+
+
+### Kraken FPSO
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+- Dry zoning of process heater, corrosion
+- Confirmation of Diesel treatment design capacity
+- Water injection pressure contrrol valve - faulty valve positioner corrected, removed 120m3/h siwng in water injection rate
+:::
+
+
+
+
+
+\newpage
+Commissioning {data-icon=user-check}
+--------------------------------------------------------------------------------
+
+### Canadian Natural Resources
+
+GB-4001 - Gas Compressor Commissioning & Start-up
+
+North Sea, Ninian Field
+
+N/A
+
+::: concise
+
+:::
+
+
+### Texaco
+
+Recommissioning of Tartan C3 Compressor
+
+North Sea, Tartan platform
+
+N/A
+
+::: concise
+
+:::
+
+
+### BP
+
+Valhall project commissioning
+
+Stavanger, Zwijndrecht
+
+N/A
+
+::: concise
+
+:::
+
+
+### BP
+
+Glen Lyon FPSO Commissioning
+
+Aberdeen, Haugesund
+
+N/A
+
+::: concise
+
+:::
+
+
+### Mearsk 
+
+Culzean Onshore Commissioning
+
+Admiralty yard, Singapore
+
+N/A
+
+::: concise
+
+:::
+
+
+
+
+
+<br/>
+
+
+Start-up {data-icon=chart-line}
+--------------------------------------------------------------------------------
+
+
+### Chevron
+
+Strathspey third party tie-in
+
+North Sea, Ninian Field
+
+N/A
+
+::: concise
+* Ninian central platform control room operator responsible for initial start-up of Strathspey third party tie-in project.
+:::
+
+
+### Canadian Natural Resources
+
+GB-4001 - Gas Compressor Commissioning & Start-up
+
+North Sea, Ninian Field
+
+N/A
+
+::: concise
+*
+:::
+
+
+### Kerr McGee
+
+Janice FPU - Start-up Engineer
+
+North Sea, J Block
+
+N/A
+
+::: concise
+
+:::
+
+
+### Phillips Petroleum
+
+Jade HPHT unmanned platform
+
+North Sea, J Block
+
+N/A
+
+::: concise
+
+:::
+
+
+### British Gas
+
+Miskar Project
+
+Offshore Tunisia
+
+N/A
+
+::: concise
+
+:::
+
+
+### KBR
+
+Carratinga FPSO
+
+Offshore Brazil, campos basin
+
+N/A
+
+::: concise
+
+:::
+
+
+### Conoco Phillips
+
+Britsats Project
+
+North Sea, Britannia 
+
+N/A
+
+::: concise
+
+:::
+
+
+### GDF Suez
+
+Cygnus Project Start-up support
+
+Aberdeen
+
+N/A
+
+::: concise
+
+:::
+
+
+
+
+<br/>
+
+
+Other Achievements: {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+
+###  
+
+N/A
+
+N/A
+
+N/A
+
+::: concise
+* Offshore Basic Fire Course.
+* Financial award for Screw compressor starting routine modification.
+* Amoco Production Engineering Course.
+* Campbell Gas Conditioning & Processing Course.
+* Neath College Prize winner: Best BTEC HNC results in Chemical Engineering.
+* Awarded BP OIL Tallow Chandlers Prize for Process apprentice of the year.
+* Gold Duke of Edinburgh's Award.
+:::
+
