@@ -1,5 +1,5 @@
 ---
-date: 2018-11-22 12:26:40
+
 layout: post
 title: Process Engineering?
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
