@@ -14,4 +14,4 @@ author: berrell
 paginate: true
 ---
 
-<iframe src="G:\IHB process\R\Pagedown CVs\Ian-Berrell-Resume-Mar-2022.html"></iframe>
+<iframe src="\img\Ian-Berrell-Resume-Mar-2022.html"></iframe>
