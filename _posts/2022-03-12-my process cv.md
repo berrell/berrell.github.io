@@ -15,10 +15,8 @@ paginate: true
 ---
 # Welcome
 
-**Hello world**, this is my first Jekyll blog post.
+Hi, thank you for looking at my profile in Linked in... you can get [Ian Berrell Resume Mar 2022.pdf](/assets/Ian%20Berrell%20Resume%20Mar%202022.pdf) directly.
 
-I hope you like it!
-
-... you can get [Ian Berrell Resume Mar 2022.pdf](/assets/Ian%20Berrell%20Resume%20Mar%202022.pdf) directly.
+Looking forward in anticipation of hearing from you.
 
 
