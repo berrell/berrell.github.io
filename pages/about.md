@@ -5,13 +5,10 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="/assets/img/uploads/engineer001.png" alt="Ian Berrell" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Twenty five years plus experienced process engineer working with operating companies and EPC companies in the oil and gas indutry in a management/lead engineer role.   My expertise includes extensive commissioning and start-up management of large scale Brownfield and Greenfield projects, on Fixed & Floating platforms (FPU, FPSO) including HPHT platforms. This experience includes a wide range of completion systems, system/project handover, start-up readiness assurance, and project performance testing.
+
