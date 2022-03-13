@@ -15,7 +15,7 @@ paginate: true
 ---
 # Welcome
 
-Hi, thank you for looking at my profile in Linkedin... you can get [Ian Berrell Resume Mar 2022.pdf](/assets/Ian%20Berrell%20Resume%20Mar%202022.pdf) directly.   Press red link to download a PDF copy to your download folder.
+Hi, thank you for looking at my profile in Linkedin... you can get [IHBDataSciCV.pdf](\assets\IHBDataSciCV.pdf) directly.   Press red link to download a PDF copy to your download folder.
 
 Looking forward in anticipation to hearing from you.
 
