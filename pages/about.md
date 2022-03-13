@@ -5,7 +5,7 @@ description: Ian Berrell - Cosultant Process Engineer.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/engineer 001.png" alt="Ian Berrell" width="200">
+<img class="img-square" src="/assets/img/uploads/engineer 001.png" alt="Ian Berrell" width="200">
 
 # About
 
