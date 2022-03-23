@@ -1,5 +1,5 @@
 ---
-date: 2022-03-23 T23:48:05.000Z
+
 layout: post
 title: Welcome to Ian Berrell blog
 subtitle: 'CV and Engineering depository for Berrell.'
