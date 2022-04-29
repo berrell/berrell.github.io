@@ -19,4 +19,4 @@ paginate: true
 
 ... you can download [IHBDataSciCV.pdf](/assets/IHBDataSciCV.pdf) directly.
 
-This resume was created with R package pagedown and is data driven.
+This resume was created with R package Vitae and is data driven.
