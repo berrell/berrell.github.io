@@ -9,7 +9,7 @@ description: >-
 image: >-
   https://res.cloudinary.com/dcr01ymtn/image/upload/v1651263188/Berrell%20blog/engineer_001_ayudi8.jpg
 optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+ https://res.cloudinary.com/dcr01ymtn/image/upload/v1651263188/Berrell%20blog/engineer_001_ayudi8.jpg
 category: blog
 tags:
   - welcome
