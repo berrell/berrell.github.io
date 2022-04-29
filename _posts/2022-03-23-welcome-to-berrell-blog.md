@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
 image: >-
-  https://res.cloudinary.com/dcr01ymtn/image/upload/c_crop,e_blackwhite,h_1144,r_0/v1651263188/Berrell%20blog/engineer_001_ayudi8.jpg
+ https://res.cloudinary.com/dcr01ymtn/image/upload/v1651263188/Berrell%20blog/engineer_001_ayudi8.jpg
 optimized_image: >-
  https://res.cloudinary.com/dcr01ymtn/image/upload/v1651263188/Berrell%20blog/engineer_001_ayudi8.jpg
 category: blog
