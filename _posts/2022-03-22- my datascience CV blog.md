@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Data Scientist CV (Developmental)?
+title: Data Scientist CV (Developmental)
 subtitle: Ian Berrell Data Scientist CV
 description: Welcome, and please feel free to down load a PDF copy of my Data Scientist CV which describes my ongoing development practices to develop a data science capability.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822138/theme9_v273a9.jpg
